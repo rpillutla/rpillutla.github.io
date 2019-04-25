@@ -43,9 +43,11 @@
         <!-- {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }} -->
         <!-- {% endif %} -->
       </h1>
-      {% if page.header.show_overlay_excerpt != false and page.excerpt %}
-        <p class="page__lead">{{ page.header.subheading | markdownify | remove: "<p>" | remove: "</p>" }}</p>
-        <p class="page__lead">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+      <h2 id="page-subheading" class="page__title" itemprop="headline">
+        {{ page.header.subheading }}
+      </h2>
+      {% if page.header.show_overlay_excerpt != false and page.header.excerpt %}
+        <p class="page__subheading">{{ page.header.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% endif %}
       {% if page.read_time %}
         <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
