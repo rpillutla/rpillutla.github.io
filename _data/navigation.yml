@@ -1,12 +1,16 @@
 # main links
 main:
+  - title: "Home"
+    url: /
   - title: "Yoga Therapy"
     url: /yoga-therapy
-  - title: "About"
+  - title: "Classes"
+    url: /classes
+  - title: "Workshops"
+    url: /workshops
+  - title: "About Ramya"
     url: /about
-  - title: "Blog"
-    url: /Blog
   - title: "Contact"
-    url: /about
+    url: /contact
   # - title: "Sitemap"
   #   url: /sitemap/
