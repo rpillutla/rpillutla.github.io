@@ -8,9 +8,9 @@ main:
     url: /classes
   - title: "Workshops"
     url: /workshops
-  # - title: "About Ramya"
-  #   url: /about
-  - title: "Contact Ramya"
+  - title: "About Ramya"
+    url: /about/
+  - title: "Contact"
     url: /about/
   # - title: "Sitemap"
   #   url: /sitemap/

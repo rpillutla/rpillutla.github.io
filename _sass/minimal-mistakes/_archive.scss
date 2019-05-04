@@ -235,6 +235,10 @@
   position: relative;
   margin-bottom: 2em;
   font-size: 1.125em;
+  box-shadow: 5px 5px rgba(0, 0, 0, 0.2);
+  background: #F5F5F5;
+  text-align: center;
+  /* rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) */
 
   @include breakpoint($small) {
     float: left;

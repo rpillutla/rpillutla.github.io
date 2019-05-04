@@ -43,7 +43,7 @@
         <!-- {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }} -->
         <!-- {% endif %} -->
       </h1>
-      <h2 id="page-subheading" class="page__title" itemprop="headline">
+      <h2 id="page-subheading" class="page__subheading" itemprop="headline">
         {{ page.header.subheading }}
       </h2>
       {% if page.header.show_overlay_excerpt != false and page.header.excerpt %}
@@ -53,7 +53,7 @@
         <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
       {% endif %}
       {% if page.header.cta_url %}
-        <p><a href="{{ cta_path }}" class="btn btn--light-outline btn--large">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+        <p class="page__cta_button"><a href="{{ cta_path }}" class="btn btn--light-outline btn--large page__cta_button">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
       {% endif %}
       {% if page.header.actions %}
         <p>
