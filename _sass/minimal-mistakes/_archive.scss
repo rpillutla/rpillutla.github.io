@@ -20,6 +20,11 @@
 
 .archive__item {
   position: relative;
+  margin: 20px;
+}
+
+.archive__item-button {
+  text-decoration: none;
 }
 
 .archive__subtitle {
@@ -58,14 +63,15 @@
 /* remove border*/
 .page__content {
   .archive__item-title {
-    margin-top: 1em;
+    margin-top: 0.5em;
     border-bottom: none;
   }
 }
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-6;
+  font-size: $type-size-3;
+  font-family: 'Nothing You Could Do', cursive;
 
   & + p {
     text-indent: 0;
@@ -194,7 +200,7 @@
 
   .archive__item-title {
     margin-top: 0.5em;
-    font-size: $type-size-5;
+    font-size: $type-size-2;
   }
 
   .archive__item-excerpt {
@@ -202,7 +208,7 @@
 
     @include breakpoint($medium) {
       display: block;
-      font-size: $type-size-6;
+      font-size: $type-size-3;
     }
   }
 

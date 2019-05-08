@@ -53,7 +53,7 @@
         <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
       {% endif %}
       {% if page.header.cta_url %}
-        <p class="page__cta_button"><a href="{{ cta_path }}" class="btn btn--light-outline btn--large page__cta_button">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+        <p class="page__cta_button"><a href="{{ cta_path }}" class="btn btn--light-outline btn--large page__cta-link" style="color: #fff; background: #36bac0;text-transform: uppercase;">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
       {% endif %}
       {% if page.header.actions %}
         <p>
@@ -63,7 +63,7 @@
           {% else %}
             {% assign url = action.url | relative_url %}
           {% endif %}
-          <a href="{{ url }}" class="btn btn--light-outline btn--large">{{ action.label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
+          <a href="{{ url }}" class="btn btn--light-outline btn--large page__hero-action">{{ action.label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
         {% endfor %}
       {% endif %}
     </div>
