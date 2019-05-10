@@ -502,6 +502,32 @@
   }
 }
 
+.page__hero-row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.page__hero-column {
+  float: left;
+  padding: 40px;
+  font-size: 0.8em;
+}
+
+.column-left {
+  width: 35%;
+}
+
+.column-right {
+  width: 65%;
+}
+
+@media screen and (max-width: 600px) {
+  .page__hero-column {
+    width: 100%;
+  }
+}
+
 /*
    Related
    ========================================================================== */
