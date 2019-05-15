@@ -1,6 +1,7 @@
 ---
 permalink: /peace-of-mind/
 title: "Yoga and Mental Wellbeing"
+author_profile: true
 ---
 <figure style="width: 400px" class="align-right">
   <img src="/assets/images/AboutMe.jpg" alt>

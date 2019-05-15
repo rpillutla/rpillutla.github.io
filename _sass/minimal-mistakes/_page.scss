@@ -72,6 +72,9 @@
 }
 
 .page__subheading {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
   font-size: $type-size-2;
   margin-top: 5px;
   text-align: center;
@@ -95,6 +98,8 @@
 }
 
 .page__content {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 
   h2 {
     padding-bottom: 0.5em;
@@ -105,6 +110,7 @@
   li,
   dl {
     font-size: 1em;
+    line-height: 1.6;
   }
 
   /* paragraph indents */
@@ -164,6 +170,7 @@
   animation-delay: 0.25s;
 
   &--overlay {
+    margin: 50px;
     position: relative;
     margin-bottom: 1em;
     padding-bottom: 5px;
