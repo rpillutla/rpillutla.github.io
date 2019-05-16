@@ -7,8 +7,6 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <table>
-        <tr style="margin: 10px; border-color: red;">
           <a href="/">
             <img class="top-left-yoga" src="{{ site.data.images.header.top-left.src }}">
           </a>
@@ -17,8 +15,6 @@
               find your peace
             </a>
           </div>
-        </tr>
-        <tr>
           <nav id="site-nav" class="greedy-nav">
             {% unless logo_path == empty %}
             <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt=""></a>
@@ -50,8 +46,6 @@
             </button>
             <ul class="hidden-links hidden"></ul>
           </nav>
-        </tr>
-      </table>
     </div>
   </div>
 </div>
