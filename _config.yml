@@ -197,6 +197,7 @@ markdown: kramdown
 kramdown:
   parse_block_html: true
   input: GFM
+  auto_ids: true
 
 # Sass/SCSS
 sass:

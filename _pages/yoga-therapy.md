@@ -6,21 +6,8 @@ toc_label: "Yoga Therapy"
 toc_sticky: true
 ---
 
-What is yoga therapy?
-
-Yoga therapy for:
-
-- Depression, anxiety, other mental health conditions
-
-- Crohn’s, Colitis, Irritable Bowel Syndrome
-
-- Pain management
-
-- Diabetes, hypertension, PCOD
-
-- Neurological disorders
-
-Yoga therapy as your path to optimal health
+* This is a seed list
+{:toc .toc__menu}
 
 ## What is Yoga Therapy?
 
@@ -36,7 +23,7 @@ The yoga therapist and the client have an initial intake and assessment session 
 
 The yoga therapist then formulates an outline for the work they will do together over the next few weeks as required. Each session will involve yoga, discussion, and a simple series of practices to be taken home and practiced by the client. This helps establish a regular and healthy routine by starting small and building up as the therapy sessions go by. It also helps empower the client; one of the goals of yoga therapy is to bring the client to a place where they don’t need a yoga therapist anymore.
 
-## Depression, Anxiety, other Mental Health Conditions
+### Depression, Anxiety, other Mental Health Conditions
 
 A good fraction of research studies that are being done on yoga for wellness are related to mental health. So much so that one complete issue ([Vol 55, Issue 7](http://www.indianjpsychiatry.org/showBackIssue.asp?issn=0019-5545;year=2013;volume=55;issue=7;month=July;supp=Y)) of the _Indian Journal of Psychiatry_  was dedicated to research about yoga and mental health. There is also a yoga centre as a part of NIMHANS, one of the most prominent institutions for mental heath and neuroscience in India.
 
@@ -48,7 +35,7 @@ Medicines used to treat mental health conditions usually also come along with a 
 
 Slow, repetitive, and mindful movement is something I have found quite useful in general.
 
-## Crohn’s, Colitis, Irritable Bowel Syndrome (IBS)
+### Crohn’s, Colitis, Irritable Bowel Syndrome (IBS)
 
 As someone who has had Crohn’s, I can only too well understand how tough chronic digestive conditions can be. Pain, cramps, nausea, heartburn, acidity, medication, puking, pooping, running to find a bathroom, and in a lot of cases, surgery. It is an illness that is to be managed and is rarely ‘cured’. IBS can also present with constipation.
 
@@ -60,26 +47,26 @@ Yes! It has! And not just meditation. Yoga has practices that can cool the body,
 
 What would yoga sessions for these individuals look like? It varies. Someone in an acute disease flare-up would require rest and perhaps some meditation and visualisation. In a more long-term situation, the sessions would involve practices to calm the mind, to get the body moving and functioning well metabolically, to help balance the immune system (immunosuppressants, I’m looking at you), and to learn tools to live a full and happy life with a potentially reduced risk of flare-ups.
 
-## Pain Management
+### Pain Management
 
 Do parts of your body hurt? Really hurt? Does your entire body hurt? Have you been told nothing can be done about it or that you’ll have to wait it out? And does it hurt too much in the meantime?
 
 Recent research is showing that there are no pain receptors in the nerves. That means your body is taking a bunch of sensations and your mind is converting it into pain. That does not mean the pain it not real, it means your pain can be managed to reduced by bringing your brain to a calmer state. Pain was evolutionarily meant to be a danger alarm. By telling your central nervous system it is okay, know that all pain can get better, if not go away completely.
 
-Pain is multi-dimensional. Often pain that manifests in one part of the body is really a signal from some other part of the body or psyche. Long-term pain might be stress held in your body. Nerve-related pain like CRPS (Complex Regional Pain Syndrome) and fibromyalgia are thought to be exacerbated by stress and excessive sympathetic arousal of the nervous system, the evolutionary flight or fight response. 
+Pain is multi-dimensional. Often pain that manifests in one part of the body is really a signal from some other part of the body or psyche. Long-term pain might be stress held in your body. Nerve-related pain like CRPS (Complex Regional Pain Syndrome) and fibromyalgia are thought to be exacerbated by stress and excessive sympathetic arousal of the nervous system, the evolutionary flight or fight response.
 
 Now how can yoga help with pain, especially with chronic pain? This central nervous system hyperarousal leads to issues with muscle tension, irregular breathing patterns, energy, fatigue, sleep, and mindset. Yoga works across the physical, physiological, mental, emotional, and energetic aspects of your body to start the process of relaxing the muscles, of slowing the breath down, and of creating a sense of stability. And the body relaxes and the breath slows down, the mind relaxes, telling your nervous system that it is okay and to calm down.
 
 Practices often used to help with pain include asanas to work with physical symptoms, improve balance and circulation, strengthen and relax muscles, pranayama to induce mind-body relaxation and develop greater awareness of the breath, and meditation and visualisation to achieve a sense of wellbeing. Yoga helps you heal your pain from inside out.
 
-## Diabetes, Hypertension, PCOD
+### Diabetes, Hypertension, PCOD
 
 Diabetes, hypertension, and PCOD are very different disorders. I'm only bundling them together here because of the sizeable impact lifestyle and physical health have on all of them. Also because individual sections for all the various things yoga can help with (everything, basically) would make this page very _very_ long. Yoga in this instance would broadly be practices to help reduce stress, improve physical health, reduce weight if medically required, relax, improve circulation, etc. all of which would improve the hormonal response of the body. The sessions would then be individually tailored based on the needs and symptoms of each client.
 
 In people with PCOD, yoga also often helps manage pain, balance weight, mood swings, and maintain optimal health. Improving circulation, reducing heartrate, and calming the nervous system down are great for working with hypertension.There are also studies that have been carried out which indicate potential improvement in nerve conductivity in mild to moderate type-2 diabetes, which could help prevent or ameliorate mild neuropathy. In all cases, a trained yoga therapist would ensure that practices that could be detrimental are excluded completely.
 
 
-## Neurological Disorders
+### Neurological Disorders
 
 Yoga is now being used to a good extent in orthopedic and mental heath disorders and clinics, but its use in individuals affected with chronic neurological disorders is still limited.
 
