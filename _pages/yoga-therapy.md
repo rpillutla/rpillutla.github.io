@@ -25,6 +25,9 @@ The yoga therapist then formulates an outline for the work they will do together
 
 ### Depression, Anxiety, other Mental Health Conditions
 
+<figure style="width: 500px" class="align-right">
+  <img src="/assets/images/backbend.jpg" alt>
+</figure>
 A good fraction of research studies that are being done on yoga for wellness are related to mental health. So much so that one complete issue ([Vol 55, Issue 7](http://www.indianjpsychiatry.org/showBackIssue.asp?issn=0019-5545;year=2013;volume=55;issue=7;month=July;supp=Y)) of the _Indian Journal of Psychiatry_  was dedicated to research about yoga and mental health. There is also a yoga centre as a part of NIMHANS, one of the most prominent institutions for mental heath and neuroscience in India.
 
 Mental illness is something that is only now coming out into the open in our country. We are trying to eliminate stigma and provide better and more accessible treatment options. But we aren’t quite at the stage where we look at preventive mental health care as much as we should.
@@ -55,7 +58,9 @@ Recent research is showing that there are no pain receptors in the nerves. That 
 
 Pain is multi-dimensional. Often pain that manifests in one part of the body is really a signal from some other part of the body or psyche. Long-term pain might be stress held in your body. Nerve-related pain like CRPS (Complex Regional Pain Syndrome) and fibromyalgia are thought to be exacerbated by stress and excessive sympathetic arousal of the nervous system, the evolutionary flight or fight response.
 
-Now how can yoga help with pain, especially with chronic pain? This central nervous system hyperarousal leads to issues with muscle tension, irregular breathing patterns, energy, fatigue, sleep, and mindset. Yoga works across the physical, physiological, mental, emotional, and energetic aspects of your body to start the process of relaxing the muscles, of slowing the breath down, and of creating a sense of stability. And the body relaxes and the breath slows down, the mind relaxes, telling your nervous system that it is okay and to calm down.
+Now how can yoga help with pain, especially with chronic pain? This central nervous system hyperarousal leads to issues with muscle tension, irregular breathing patterns, energy, fatigue, sleep, and mindset. <figure style="width: 500px" class="align-left">
+  <img src="/assets/images/painRestorative.jpg" alt>
+</figure>Yoga works across the physical, physiological, mental, emotional, and energetic aspects of your body to start the process of relaxing the muscles, of slowing the breath down, and of creating a sense of stability. And the body relaxes and the breath slows down, the mind relaxes, telling your nervous system that it is okay and to calm down.
 
 Practices often used to help with pain include asanas to work with physical symptoms, improve balance and circulation, strengthen and relax muscles, pranayama to induce mind-body relaxation and develop greater awareness of the breath, and meditation and visualisation to achieve a sense of wellbeing. Yoga helps you heal your pain from inside out.
 
@@ -71,7 +76,9 @@ In people with PCOD, yoga also often helps manage pain, balance weight, mood swi
 Yoga is now being used to a good extent in orthopedic and mental heath disorders and clinics, but its use in individuals affected with chronic neurological disorders is still limited.
 
 These disorders could include epilepsy, dementia, stroke, Parkinson’s, multiple sclerosis, symptoms caused by traumatic brain injuries, etc. There are millions of people in the country who have a neurological condition that changes how they live their life — socially, emotionally, financially, sometimes with reduced autonomy, mobility, or cognitive ability. It can be scary.
-
+<figure style="width: 500px" class="align-left">
+  <img src="/assets/images/chairYoga.jpg" alt>
+</figure>
 Healthcare professionals are now largely in unison about the importance of exercise and relaxation in maintaining health and improving quality of life in those with neurological or neuromuscular disorders. They can also potentially delay the course of degenerative and progressive disorders. Yoga, then, can be a great adjuvant therapy to try in addition to regular treatment.
 
 So what would yoga for neurological wellness look like? While each individual is unique and therefore warrants a treatment plan that is just as unique, there is no doubt that yoga can help. It can be used to improve range of motion, mobility, strength, balance and calmness. It can also increase resilience to stress, one of the most controllable factors that exacerbates neurological disorders or flare-ups. It can calm the body down. It can aid in fall prevention in those with impaired balance. It can also improve memory, focus, and mood.
