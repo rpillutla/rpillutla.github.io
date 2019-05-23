@@ -146,6 +146,8 @@ body:hover .visually-hidden button {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 0px;
+  margin-top: 10px;
 
   @include breakpoint($small) {
     float: left;
@@ -159,11 +161,20 @@ body:hover .visually-hidden button {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 0px;
+  margin-top: 10px;
 
   @include breakpoint($small) {
     float: right;
     margin-left: 1em;
   }
+}
+
+/* Image responsive */
+.img-responsive {
+  height: auto;
+  width: 100%;
+  max-width: 500px;
 }
 
 /* image align center */
