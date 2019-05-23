@@ -565,9 +565,8 @@
   }
 }
 
-$toc-width: max-width 1024px;
 .toc-top {
-  @include breakpoint($toc-width) {
+  @include breakpoint($responsive-width-max) {
     display: none;
   }
 }

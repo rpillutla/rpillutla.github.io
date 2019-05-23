@@ -47,7 +47,11 @@
 }
 
 .top-right-text {
-  float: right;
+
+  @include breakpoint($responsive-width-min) {
+    float: right;
+  }
+
   margin: auto;
   text-align: center;
   font-family: 'Nothing You Could Do', cursive;
