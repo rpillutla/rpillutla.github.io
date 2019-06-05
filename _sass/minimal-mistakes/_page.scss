@@ -23,12 +23,14 @@
   @include breakpoint($large) {
     float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-right: $right-sidebar-width-narrow;
+    padding-left: $right-sidebar-width-narrow;
+    padding-right: calc( #{$right-sidebar-width-narrow} /2);
   }
 
   @include breakpoint($x-large) {
     width: calc(100% - #{$right-sidebar-width});
-    padding-right: $right-sidebar-width;
+    padding-left: $right-sidebar-width;
+    padding-right: calc( #{$right-sidebar-width-narrow} /2); 
   }
 
   .page__inner-wrap {
@@ -53,6 +55,17 @@
 }
 
 .page__title {
+  margin-top: 50px;
+  line-height: 1;
+  text-align: left;
+  margin-bottom: 40px;
+
+  & + .page__meta {
+    margin-top: -0.5em;
+  }
+}
+
+.page__title_header {
   margin-top: 40px;
   line-height: 1;
   text-align: center;
@@ -62,6 +75,7 @@
     margin-top: -0.5em;
   }
 }
+
 
 .page__title_breathe {
   // margin-bottom: 10px;
@@ -198,6 +212,7 @@
     }
 
     .page__title,
+    .page__title_header,
     .page__title_breathe,
     .page__meta,
     .page__lead,
@@ -212,7 +227,7 @@
       max-width: $medium;
     }
 
-    .page__title, .page__title_breathe {
+    .page__title, .page__title_breathe, .page__title_header {
       font-size: $type-size-2;
 
       @include breakpoint($small) {

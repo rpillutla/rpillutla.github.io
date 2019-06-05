@@ -6,8 +6,8 @@ main:
     url: /yoga-therapy
   - title: "Classes"
     url: /classes
-  - title: "Workshops"
-    url: /workshops
+ # - title: "Workshops"
+ #   url: /workshops
   - title: "About Ramya"
     url: /about/
   - title: "Contact"
