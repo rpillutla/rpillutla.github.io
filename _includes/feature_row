@@ -33,23 +33,23 @@
               </div>
             {% endif %}
 
-            <div class="archive__item-body btn" href="{{ f.url }}">
-              {% if f.top %}
-                <h3 class="archive__item-excerpt">{{ f.top }}</h3>
-              {% endif %}
+            {% if f.top or f.title or f.bottom %}
+              <div class="archive__item-body btn" href="{{ f.url }}">
+                {% if f.top %}
+                  <h3 class="archive__item-excerpt">{{ f.top }}</h3>
+                {% endif %}
 
-              {% if f.title %}
-                <h2 class="archive__item-title">{{ f.title }}</h2>
-              {% endif %}
+                {% if f.title %}
+                  <h2 class="archive__item-title">{{ f.title }}</h2>
+                {% endif %}
 
-              {% if f.bottom %}
-                <h3 class="archive__item-excerpt">{{ f.bottom }}</h3>
-              {% endif %}
-
-              {% endif %}
-            </div>
+                {% if f.bottom %}
+                  <h3 class="archive__item-excerpt">{{ f.bottom }}</h3>
+                {% endif %}
+              </div>
+            {% endif %}
           </a>
-        {{ endif }}
+        {% endif %}
       </div>
     </div>
   {% endfor %}
