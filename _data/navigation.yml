@@ -3,11 +3,11 @@ main:
   - title: "Home"
     url: /
   - title: "Yoga Therapy"
-    url: /yoga-therapy
+    url: /yoga-therapy/
   - title: "Classes"
-    url: /classes
- # - title: "Workshops"
- #   url: /workshops
+    url: /classes/
+  - title: "Meditate"
+    url: /peace-of-mind/
   - title: "About Ramya"
     url: /about/
   - title: "Contact"
