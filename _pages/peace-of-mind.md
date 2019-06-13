@@ -28,7 +28,5 @@ between pranayama and meditation that is centred around the breath is that
 pranayama is about regulation and even modification sometimes, while meditation
 emphasises watching what already is without judging or seeking to change it.
 
-There are two clips here. The first is three pranayama techniques that you can
-use. The second is a short meditation clip. What we have here is great both for
-beginners and those already familiar with yoga and/or meditation. If you'd
-prefer written instructions, you can find them below the video.
+<p style="color: #5096a1; font-size: 0.8em;">
+Watch this space, pranayama and meditation videos will be up soon! Drop me a [message](/contact/) if you would like to be notified when they are.</p>
