@@ -33,14 +33,17 @@ layout: parel
   </div>
   </div>
 
-  <div class="parel-column parel-column-right">
+  <div class="parel-column parel-column-right" id="side-div">
+  <center>
   <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
-  onload="if(submitted) {window.location='/thankyou';}"></iframe>
+  onload="if(submitted) { document.getElementById('formText').innerHTML = 'Your response has been recorded.' }"></iframe>
+
 
   <form method="post" class="parel-form" action="https://docs.google.com/forms/d/e/1FAIpQLSe7gUJ01ce1e1aaOkLM6pY8dKc5A1eROdc5oKzwLxOCOZezXw/formResponse" target="hidden_iframe" onsubmit="submitted=true;">
   <h2 style="text-align:center; margin-top:0.5em; color:#000;">Interested?</h2>
   <h3 style="text-align:center; margin-top:0.2em; color:#000;">Get in Touch</h3>
   <!---<label>Your Email ID</label>--->
+  <div id="formText">
   <input name="emailAddress" type="email" placeholder="Email Address">
 
   <!---<label>Name:</label>--->
@@ -52,9 +55,13 @@ layout: parel
   <!---<label>Date of joining:</label>--->
   <input name="entry.752416859" type="text" placeholder="When do you want to start?" >
 
-  <button class="btn btn--large" type="submit">Submit</button>
+  <center>
+  <button class="btn btn--large center" type="submit">Submit</button>
+  </center>
+  </div>
 
   <a href="mailto:healwithramya@gmail.com" style="color:#000">healwithramya[at]gmail.com</a>
 
   </form>
+  </center>
   </div>

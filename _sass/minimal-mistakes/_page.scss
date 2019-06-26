@@ -585,6 +585,7 @@
 
 .parel-column-left {
   width: 65%;
+  min-width: 300px;
 }
 
 .parel-column-right {
@@ -601,17 +602,17 @@
   }
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 960px) {
   .parel-column {
     width: 100%;
   }
 }
 
-@media screen and (min-width: 1600px) {
-  .parel-column {
-    width: 100%;
-  }
-}
+// @media screen and (min-width: 1600px) {
+//   .parel-column {
+//     width: 100%;
+//   }
+// }
 /*
    Related
    ========================================================================== */
