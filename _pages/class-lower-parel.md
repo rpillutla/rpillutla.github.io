@@ -1,6 +1,8 @@
 ---
 permalink: /lower-parel
 title: "Hatha Yoga Classes in Lower Parel"
+author_profile: false
+layout: parel
 ---
 
 ## Starting from July 3rd
