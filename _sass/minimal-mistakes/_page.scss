@@ -562,6 +562,11 @@
   }
 }
 
+.parel-column {
+  float: left;
+  padding: 30px;
+}
+
 .page__hero-row:after {
   content: "";
   display: table;
@@ -578,6 +583,14 @@
   width: 35%;
 }
 
+.parel-column-left {
+  width: 65%;
+}
+
+.parel-column-right {
+  width: 35%;
+}
+
 .column-right {
   width: 65%;
 }
@@ -588,6 +601,17 @@
   }
 }
 
+@media screen and (max-width: 1200px) {
+  .parel-column {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 1600px) {
+  .parel-column {
+    width: 100%;
+  }
+}
 /*
    Related
    ========================================================================== */
