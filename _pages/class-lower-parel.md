@@ -24,6 +24,5 @@ onload="if(submitted) {window.location='/thankyou';}"></iframe>
 <label>Date of joining:</label>
 <input name="entry.752416859" type="text" placeholder="When do you want to start classes?" >
 
-
-
 <button class="btn btn--large" type="submit">Send</button>
+</form>
