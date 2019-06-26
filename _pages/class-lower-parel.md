@@ -11,7 +11,7 @@ New yoga batch starting at *The Integral Space* on July 3rd 2019.
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
 onload="if(submitted) {window.location='/thankyou';}"></iframe>
 
-<form method="post" action="https://docs.google.com/forms/d/e/1FAIpQLSe7gUJ01ce1e1aaOkLM6pY8dKc5A1eROdc5oKzwLxOCOZezXw/formResponse" target="hidden_iframe" onsubmit="submitted=true;">
+<form method="post" class="parel-form" action="https://docs.google.com/forms/d/e/1FAIpQLSe7gUJ01ce1e1aaOkLM6pY8dKc5A1eROdc5oKzwLxOCOZezXw/formResponse" target="hidden_iframe" onsubmit="submitted=true;">
 <label>Your Email ID</label>
 <input name="emailAddress" type="email" placeholder="So that I can respond to you." required>
 
