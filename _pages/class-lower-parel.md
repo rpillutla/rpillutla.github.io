@@ -8,17 +8,25 @@ layout: parel
   <div class="parel-column parel-column-left" style="background-color: rgba(255,255,255,0.4);">
   
   <div style="padding-left: 1.5em; padding-right: 1.5em;">
-  New yoga batch starting at *The Integral Space* on July 3rd 2019.
+  <p style="color: #fff;">New yoga batch starting at *The Integral Space* on July 3rd 2019.</p>
   
-  <h1 style="font-family:'Crimson Text', serif;font-size:3em;">Yoga Classes</h1>
-  <h1 style="font-size:1.5em;font-family:'Crimson Text', serif;text-align:right;">in Lower Parel</h1>
+  <h1 style="font-family:'Crimson Text', serif;font-size:2.5em;">Yoga Classes in Lower Parel</h1>
   
-  Hi!
 
-  I am Ramya, and I am a therapeutic yoga teacher. I believe in the value of healing through yoga and am working to bring it into mainstream medicine and healthcare as an adjunct treatment, and into the lives of all people, healthy or not, as a way of finding our inherent wellness and wholeness.
-
-  When I'm not out teaching, trekking, or traveling, I spend my time on music, art, books, and reading about the brain.
-
+  <p style="font-family:'Crimson Text', serif; color: #000; font-weight:bold;">
+  Do you want to be healthier? Are you feeling disconnected or tired? Stressed out? Or maybe you want to know what yoga is all about.</p>
+  <figure class="align-right">
+  <img class="img-responsive" src="/assets/images/headstand.jpg" style="max-height:400px;width:auto;" alt>
+  </figure>
+  <p style="font-family:'Crimson Text', serif; color: #000; font-weight:normal;">Join us for traditional hatha yoga classes at <b>The Integral Space</b>, every <b>Wednesday and Friday, 7 am to 8 am</b>.
+  <br><br>
+  The classes will involve a comprehensive asana practice followed by some pranayama and meditation. 
+ealth and fitness, one class away.
+<br><br>
+  Ramya is a Yoga Alliance certified RYT-500 teacher. She believes 
+  
+  
+  </p>
   <!---<figure class="align-center">
   <a href="https://instagram.com/ramyapillutla"><img class="img-responsive" style="max-width:700px;align:center;" src="/assets/images/me.jpg" alt></a>
   </figure>--->
@@ -33,7 +41,7 @@ layout: parel
   <h2 style="text-align:center; margin-top:0.5em;">Interested?</h2>
   <h3 style="text-align:center; margin-top:0.2em;">Get in Touch</h3>
   <!---<label>Your Email ID</label>--->
-  <input name="emailAddress" type="email" placeholder="Email Address" required>
+  <input name="emailAddress" type="email" placeholder="Email Address">
 
   <!---<label>Name:</label>--->
   <input name="entry.1242451957" type="text" placeholder="Name" required>
