@@ -58,14 +58,14 @@
   @include breakpoint($large) {
     float: none;
     width: 100%;
-    padding-left: $right-sidebar-width-narrow;
-    padding-right: $right-sidebar-width-narrow;
+    padding-left: calc(#{$right-sidebar-width-narrow}/2);
+    padding-right: calc(#{$right-sidebar-width-narrow}/2);
   }
 
   @include breakpoint($x-large) {
     width: 100%;
-    padding-left: $right-sidebar-width;
-    padding-right: $right-sidebar-width;
+    padding-left: calc(#{$right-sidebar-width}/2);
+    padding-right: calc(#{$right-sidebar-width}/2);
   }
 
   .page__inner-wrap {
