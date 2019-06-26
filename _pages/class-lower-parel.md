@@ -20,12 +20,9 @@ layout: parel
   </figure>
   <p style="font-family:'Crimson Text', serif; color: #000; font-weight:normal;">Join us for traditional hatha yoga classes at <b>The Integral Space</b>, every <b>Wednesday and Friday, 7 am to 8 am</b>.
   <br><br>
-  The classes will involve a comprehensive asana practice followed by some pranayama and meditation. 
-ealth and fitness, one class away.
+  The classes will involve a comprehensive asana practice followed by some pranayama and meditation. Open to people of all ages and experiences.
 <br><br>
-  Ramya is a Yoga Alliance certified RYT-500 teacher. She believes 
-  
-  
+  <b>Ramya</b> is a Yoga Alliance certified RYT-500 teacher with years of experience teaching yoga. You can find her on <a href="https://instagram.com/ramyapillutla" style="color:#000">Instagram</a> or check out her <a href="https://healwithramya.com" style="color:#000">website</a>.
   </p>
   <!---<figure class="align-center">
   <a href="https://instagram.com/ramyapillutla"><img class="img-responsive" style="max-width:700px;align:center;" src="/assets/images/me.jpg" alt></a>
@@ -38,8 +35,8 @@ ealth and fitness, one class away.
   onload="if(submitted) {window.location='/thankyou';}"></iframe>
 
   <form method="post" class="parel-form" action="https://docs.google.com/forms/d/e/1FAIpQLSe7gUJ01ce1e1aaOkLM6pY8dKc5A1eROdc5oKzwLxOCOZezXw/formResponse" target="hidden_iframe" onsubmit="submitted=true;">
-  <h2 style="text-align:center; margin-top:0.5em;">Interested?</h2>
-  <h3 style="text-align:center; margin-top:0.2em;">Get in Touch</h3>
+  <h2 style="text-align:center; margin-top:0.5em; color:#000;">Interested?</h2>
+  <h3 style="text-align:center; margin-top:0.2em; color:#000;">Get in Touch</h3>
   <!---<label>Your Email ID</label>--->
   <input name="emailAddress" type="email" placeholder="Email Address">
 
@@ -53,6 +50,8 @@ ealth and fitness, one class away.
   <input name="entry.752416859" type="text" placeholder="When do you want to start?" >
 
   <button class="btn btn--large" type="submit">Submit</button>
+
+  <a href="mailto:healwithramya@gmail.com">healwithramya[at]gmail.com</a>
 
   </form>
   </div>
