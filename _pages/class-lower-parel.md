@@ -23,6 +23,9 @@ layout: parel
   The classes will involve a comprehensive asana practice followed by some pranayama and meditation. Open to people of all ages and experiences.
 <br><br>
   <b>Ramya</b> is a Yoga Alliance certified RYT-500 teacher with years of experience teaching yoga. You can find her on <a href="https://instagram.com/ramyapillutla" style="color:#000">Instagram</a> or check out her <a href="https://healwithramya.com" style="color:#000">website</a>.
+
+  <br><br>
+  Venue: The Integral Space, Opp. Palladium Mall, Lower Parel, Mumbai
   </p>
   <!---<figure class="align-center">
   <a href="https://instagram.com/ramyapillutla"><img class="img-responsive" style="max-width:700px;align:center;" src="/assets/images/me.jpg" alt></a>
@@ -51,7 +54,7 @@ layout: parel
 
   <button class="btn btn--large" type="submit">Submit</button>
 
-  <a href="mailto:healwithramya@gmail.com">healwithramya[at]gmail.com</a>
+  <a href="mailto:healwithramya@gmail.com" style="color:#000">healwithramya[at]gmail.com</a>
 
   </form>
   </div>
