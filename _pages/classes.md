@@ -20,7 +20,7 @@ These are a specific subset of hatha classes that I've found both highly benefic
 ## Asana, Pranayama, Meditation (APM)
 APM classes involve significant amounts of all three: asanas, pranayama, and meditation, with mudras and bandhas as appropriate. They tend to be physically less demanding than intense hatha sessions and are ideal for developing breath awareness, focus, and relaxation. A must-try for anyone who wants to do yoga.
 
-## Asana with Props (in the style of Iyengar)
+## Asana with Props
 <figure class="align-right">
   <img class="img-responsive" style="max-width: 400px;" src="/assets/images/prop.jpg" alt>
 </figure>This is usually a studio-only class, unless you have props (blocks, bolsters, and/or yoga belts) with you at home. I love using makeshift props too though, those that are found around the house. Chairs, walls, water bottles, you name it. In general, though, if you are specifically looking for a class that uses props to either work on alignment or strength or awareness, I would advise you go to a studio. 

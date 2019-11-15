@@ -37,9 +37,7 @@ Mental illness is something that is only now coming out into the open in our cou
 
 Yoga believes that each person is whole and complete, and that healing comes from within. That you might be suffering, but you aren’t broken. And so the approach is to find what wellness is for each individual, rather than trying to ‘treat’ a specific illness. That said, there is research supporting yoga’s therapeutic effects for depression, anxiety, insomnia, and the social and cognitive deficits that often accompany schizophrenia.
 
-Medicines used to treat mental health conditions usually also come along with a whole bunch of unpleasant side-effects. But it is a risk-benefit balance that psychiatrists and their clients have no choice but to walk. Yoga helps with these — weight control, prevention of diabetes, improved concentration and balancing energy levels are quite accessible with regular and directed practice.
-
-Slow, repetitive, and mindful movement is something I have found quite useful in general.
+Medicines used to treat mental health conditions usually also come along with a whole bunch of unpleasant side-effects. But it is a risk-benefit balance that psychiatrists and their clients have no choice but to walk. Yoga helps with these; weight control, prevention of diabetes, improved concentration and balancing energy levels are quite accessible with regular and directed practice.
 
 ### Crohn’s, Colitis, Irritable Bowel Syndrome (IBS)
 
