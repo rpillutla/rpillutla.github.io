@@ -1,10 +1,10 @@
 ---
-permalink: /depression-info/
+permalink: /depression-and-anxiety/
 title: "Yoga for Depression and Anxiety"
 ---
 <div>
 
-Depression and anxiety are two increasingly prevalent mood disorders. Depression involves persistent sadness and a loss of interest or pleasure in activities that are usually enjoyable. Anxiety is characterised by symptoms of fear, worry or panic, and difficulty getting adequate sleep.
+Depression and anxiety are two increasingly prevalent mood disorders. Depression involves persistent sadness and a loss of interest or pleasure in activities that are usually enjoyable. Anxiety is characterised by symptoms of fear, worry or panic, and difficulty in getting adequate sleep.
 
 <b><i>Are you struggling with sadness or lack of energy/enthusiasm that is interfering with your life? Are you sleeping too much or too little? Does it feel like nothing can help? Or are you having any side effects from your medication for depression or anxiety.</i></b>
 
@@ -15,7 +15,7 @@ Depression and anxiety are two increasingly prevalent mood disorders. Depression
 Yoga might help. A personal yoga therapy session from an expert directed at reducing anxiety and depression would be tailored to meet your specific needs and address your symptoms.
 
 Would you like to try yoga for anxiety or depression?<br>
-<p style="color: #5096a1;font-weight:bold;">Leave a WhatsApp message on +91 9082304707 or mail <a href="mailto:healwithramya@gmail.com" style="color:#000;">healwithramya[at]gmail[dot]com</a>
+<p style="color: #5096a1;font-weight:bold;">Leave a WhatsApp message on +91 9082304707 or mail <a href="mailto:healwithramya@gmail.com" style="color:#000;">healwithramya[at]gmail[dot]com.</a><br>
 
 You can also leave your details [here](/contact/). We will call you back within 48 hours.</p>
 
@@ -29,13 +29,13 @@ Both depression and anxiety often lead to excessive thinking about upsetting sit
   <img class="img-responsive" src="/assets/images/backbend.jpg" alt>
 </figure>
 
-Yoga is a mind-body intervention that has been around since ancient times. It involves physical postures and movement (asanas), breath work (pranayama), and meditation in addition to guidelines that help cultivate a more tranquil state of mind. Studies have shown that it can reduce excessive and unproductive thinking, improve sleep, increase energy levels, and promote positive states of mind. Additionally, yoga greatly reduces stress which is known to worsen mental health.
+Yoga is a mind-body intervention that has been around since ancient times. It involves physical postures and movement (asanas), breath work (pranayama), and meditation in addition to guidelines that help cultivate a more tranquil state of mind. Studies have shown that it can reduce excessive and unproductive thinking, improve sleep, increase energy levels, and promote positive states of mind. Additionally, yoga greatly reduces stress.
 
-Mental health has been consistently shown to improve with physical activity and exercise. The added advantage of yoga postures is that they teach you to be in the present moment and develop an awareness of the state of your body and mind.
+Mental health has been consistently shown to improve with physical activity and exercise. The added advantage of yoga postures (asanas) is that they teach you to be in the present moment and develop an awareness of the state of your body and mind.
 
 Pranayama, or specific breath work, works with your energy levels. Some types of pranayama are beneficial to improve energy levels and overcome fatigue. Some are great to calm agitation and restlessness. And some, like alternate nostril breathing, are extremely balancing in nature.
 
-A consistent pranayama and asana practice also helps counter common side-effects of medication: weight gain, lethargy, and trouble focusing.
+A consistent pranayama and asana practice also helps counter common side effects of medication: weight gain, lethargy, and trouble focusing.
 
 To round it off, meditation teaches you to bring your attention to the present moment. It helps you focus better, stay calm, observe your emotions, and sleep well through the development of mindfulness and awareness.
 
@@ -43,7 +43,7 @@ Yoga, under the guidance and supervision of a trained professional, can teach yo
 
 To know more about me, click <a href="/about/" style="color:#000;">here</a>
 
-<p style="color: #5096a1;font-weight:bold;">Leave a WhatsApp message on +91 9082304707 or mail <a href="mailto:healwithramya@gmail.com" style="color:#000;">healwithramya[at]gmail[dot]com</a>
+<p style="color: #5096a1;font-weight:bold;">Leave a WhatsApp message on +91 9082304707 or mail <a href="mailto:healwithramya@gmail.com" style="color:#000;">healwithramya[at]gmail[dot]com.</a><br>
 
 You can also leave your details [here](/contact/). We will call you back within 48 hours.</p>
 
