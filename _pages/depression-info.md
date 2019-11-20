@@ -8,10 +8,6 @@ Depression and anxiety are two increasingly prevalent mood disorders. Depression
 
 <b><i>Are you struggling with sadness or lack of energy/enthusiasm that is interfering with your life? Are you sleeping too much or too little? Does it feel like nothing can help? Or are you having any side effects from your medication for depression or anxiety.</i></b>
 
-<!---<figure class="align-right">
-  <img class="img-responsive" src="/assets/images/backbend.jpg" alt>
-</figure>--->
-
 Yoga might help. A personal yoga therapy session from an expert directed at reducing anxiety and depression would be tailored to meet your specific needs and address your symptoms.
 
 Would you like to try yoga for anxiety or depression?<br>
@@ -26,7 +22,7 @@ Both depression and anxiety often lead to excessive thinking about upsetting sit
 ### How can yoga help?
 
 <figure class="align-right">
-  <img class="img-responsive" src="/assets/images/backbend.jpg" alt>
+  <img class="img-responsive" style="max-width:350px;" src="/assets/images/backbend.jpg" alt>
 </figure>
 
 Yoga is a mind-body intervention that has been around since ancient times. It involves physical postures and movement (asanas), breath work (pranayama), and meditation in addition to guidelines that help cultivate a more tranquil state of mind. Studies have shown that it can reduce excessive and unproductive thinking, improve sleep, increase energy levels, and promote positive states of mind. Additionally, yoga greatly reduces stress.
