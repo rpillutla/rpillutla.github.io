@@ -29,7 +29,7 @@ The yoga therapist then formulates an outline for the work they will do together
 ### Depression, Anxiety, other Mental Health Conditions
 
 <figure class="align-right">
-  <img class="img-responsive" src="/assets/images/backbend.jpg" alt>
+  <img class="img-responsive" style="max-width:400px;" src="/assets/images/backbend.jpg" alt>
 </figure>
 A good fraction of research studies that are being done on yoga for wellness are related to mental health. So much so that one complete issue ([Vol 55, Issue 7](http://www.indianjpsychiatry.org/showBackIssue.asp?issn=0019-5545;year=2013;volume=55;issue=7;month=July;supp=Y)) of the _Indian Journal of Psychiatry_  was dedicated to research about yoga and mental health. There is also a yoga centre as a part of NIMHANS, one of the most prominent institutions for mental heath and neuroscience in India.
 
@@ -38,6 +38,8 @@ Mental illness is something that is only now coming out into the open in our cou
 Yoga believes that each person is whole and complete, and that healing comes from within. That you might be suffering, but you aren’t broken. And so the approach is to find what wellness is for each individual, rather than trying to ‘treat’ a specific illness. That said, there is research supporting yoga’s therapeutic effects for depression, anxiety, insomnia, and the social and cognitive deficits that often accompany schizophrenia.
 
 Medicines used to treat mental health conditions usually also come along with a whole bunch of unpleasant side-effects. But it is a risk-benefit balance that psychiatrists and their clients have no choice but to walk. Yoga helps with these; weight control, prevention of diabetes, improved concentration and balancing energy levels are quite accessible with regular and directed practice.
+
+Click <b>[here](/depression-and-anxiety)</b> for more.
 
 ### Crohn’s, Colitis, Irritable Bowel Syndrome (IBS)
 
