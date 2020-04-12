@@ -3,7 +3,7 @@ permalink: /classes/
 title: "Classes"
 ---
 <p style="color: #5096a1; font-size: 0.8em;">
-My group schedule will be up soon here. Drop me a [message](/contact/) if you would like to receive email notifications with schedule updates.</p>
+In view of the lockdown, all classes are suspended. I will be taking a limited number of online clients. Drop me a [message](/contact/) if you would like to schedule an online session.</p>
 
 Yoga, these days, is a broad term encompassing a whole variety of classes involving asanas, pranayama, yoga nidra, meditation, kriyas, and yogic philosophy. This might leave you confused about what type of classes you would like. Here I've elaborated on classes that I take. If you are looking for any of them, do drop me a message to discuss scheduling. I take group, private, corporate, and public classes. If the type of class you are looking for is not present in this list, let me know what it is you are looking for so I can help you find it.
 
