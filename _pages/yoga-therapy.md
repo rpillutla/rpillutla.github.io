@@ -7,6 +7,9 @@ toc_sticky: true
 ---
 <div>
 
+<p style="color: #5096a1; font-size: 0.8em;">
+In view of the lockdown, all classes are suspended. I will be taking a limited number of online clients. Drop me a [message](/contact/) if you would like to schedule an online session.</p>
+
 <div class="toc-top">
 * This is a seed list
 {:toc .toc__menu}
