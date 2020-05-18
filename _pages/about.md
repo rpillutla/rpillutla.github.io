@@ -12,6 +12,6 @@ When I'm not out teaching, trekking, or traveling, I spend my time on music, art
 
 [Contact me](/contact/)
 
-<figure class="align-center">
+<!--figure class="align-center">
 <a href="https://instagram.com/ramyapillutla"><img class="img-responsive" style="max-width:700px;align:center;" src="/assets/images/me.jpg" alt></a>
-</figure>
+</figure-->
