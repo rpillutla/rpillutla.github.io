@@ -113,7 +113,9 @@ author:
   bio              : "RYT500 Advanced Teacher of Therapeutic Yoga"
   location         : "Mumbai"
   email            : "rpillutla16@gmail.com"
-  links:
+  youtube: "https://www.youtube.com/c/yogawithramya"
+  instagram: healwithramya
+  # links:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
     #   # url: mailto:your.name@email.com
@@ -129,9 +131,10 @@ author:
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/ramyapillutla"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://ins tagram.com/ramyapillutla"
+
 
 # Site Footer
 footer:
@@ -154,7 +157,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/ramyapillutla"
-
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/c/yogawithramya"
 
 # Reading Files
 include: ["_pages"]
@@ -188,7 +193,7 @@ exclude:
 keep_files:
   - .git
   - .svn
-encoding: "utf-8"
+encoding: utf-8
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
