@@ -4,16 +4,14 @@ title: "Yoga for Depression and Anxiety"
 ---
 <div>
 
+<p style="color: #5096a1; font-size: 0.8em; font-weight:bold">
+In view of the lockdown, all classes are suspended. I will be taking a limited number of online clients. Drop me a [message](/contact/) if you would like to schedule an online session. <br><br>You can also leave a WhatsApp message on +91 9082304707 or mail healwithramya[at]gmail[dot]com.</p>
+
 Depression and anxiety are two increasingly prevalent mood disorders. Depression involves persistent sadness and a loss of interest or pleasure in activities that are usually enjoyable. Anxiety is characterised by symptoms of fear, worry or panic, and difficulty in getting adequate sleep.
 
 <b><i>Are you struggling with sadness or lack of energy/enthusiasm that is interfering with your life? Are you sleeping too much or too little? Does it feel like nothing can help? Or are you having any side effects from your medication for depression or anxiety.</i></b>
 
 Yoga might help. A personal yoga therapy session from an expert directed at reducing anxiety and depression would be tailored to meet your specific needs and address your symptoms.
-
-Would you like to try yoga for anxiety or depression?<br>
-<p style="color: #5096a1;font-weight:bold;">Leave a WhatsApp message on +91 9082304707 or mail <a href="mailto:healwithramya@gmail.com" style="color:#000;">healwithramya[at]gmail[dot]com.</a><br>
-
-You can also leave your details [here](/contact/). We will call you back within 48 hours.</p>
 
 People experience depression and anxiety in different ways that disturb daily functioning and cause distress. It can be a vague sense of unease and sadness that just doesn’t go away. It can be persistent sadness without a clear cause. Anxiety can come with a lack of desire to eat or with excessive eating to reduce stress. You might even be having a hard time falling asleep at night because your mind is racing.
 

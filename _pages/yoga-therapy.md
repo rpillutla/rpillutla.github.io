@@ -7,8 +7,8 @@ toc_sticky: true
 ---
 <div>
 
-<p style="color: #5096a1; font-size: 0.8em;">
-In view of the lockdown, all classes are suspended. I will be taking a limited number of online clients. Drop me a [message](/contact/) if you would like to schedule an online session.</p>
+<p style="color: #5096a1; font-size: 0.8em; font-weight:bold">
+In view of the lockdown, all classes are suspended. I will be taking a limited number of online clients. Drop me a [message](/contact/) if you would like to schedule an online session. <br><br>You can also leave a WhatsApp message on +91 9082304707 or mail healwithramya[at]gmail[dot]com.</p>
 
 <div class="toc-top">
 * This is a seed list
