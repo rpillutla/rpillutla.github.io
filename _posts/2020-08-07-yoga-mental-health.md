@@ -4,7 +4,6 @@ author: Ramya Pillutla
 categories: posts
 title: "Yoga: Therapy for the Mind and Soul"
 excerpt: In the recent past, there has been a surge of interest in holistic healing to manage mental health disorders. What role does yoga play in mental wellness?
-author_profile: "true"
 ---
 <p style="text-align: justify;">
 In the recent past, there has been a surge of interest in holistic healing, especially when it comes to managing mental health disorders. A holistic approach to treatment takes into consideration all aspects of the individual’s wellbeing — physical, mental, emotional, social, and spiritual. Rather than focusing on one illness or problem, holistic healing looks at healing the individual as a whole. In practice, it underlines the connection between the mind, body, and spirit.
