@@ -7,7 +7,9 @@
   margin-bottom: 2em;
 
   @include breakpoint($large) {
-    float: right;
+    //float: right;
+    margin-left: 10%;
+    margin-right: 10%;
     width: calc(100% - #{$right-sidebar-width-narrow});
     padding-right: $right-sidebar-width-narrow;
   }
@@ -78,8 +80,8 @@ To add hover shadow
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-3;
-  font-family: 'Nothing You Could Do', cursive;
+  //font-size: $type-size-3;
+  font-family: 'Lato', sans-serif;
 
   & + p {
     text-indent: 0;
