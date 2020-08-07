@@ -44,3 +44,5 @@ On the whole, yoga is relatively safe, but there are a few contraindications to 
 <br><br>
 People are turning to yoga to combat daily issues for general wellness and self-care. It is a lifestyle change that can help you discover well-being and happiness. Yoga therapy for mental health is slowly being established as a scientific discipline and a school of holistic medicine, and is expected to grow in practice.
 </p>
+<p style="font-style:italic;">Article originally published [here](https://mentalhealthtoday.co.in/yoga-therapy-mind-and-soul-ramya-pillutla/)</p>
+<br>
