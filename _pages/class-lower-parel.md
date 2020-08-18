@@ -24,7 +24,7 @@ layout: parel
   <br><br>
   The classes will involve a comprehensive asana practice followed by some pranayama and meditation aimed at improving overall well-being. Open to people of all ages and experiences.
 <br><br>
-  <b>Ramya</b> is a Yoga Alliance certified RYT-500 teacher with years of experience teaching yoga to a highly varied audience. Her classes are fun and engaging while still retaining the essense of yoga. You can find her on <a href="https://instagram.com/ramyapillutla" style="color:#000">Instagram</a> or check out her <a href="https://healwithramya.com" style="color:#000">website</a>.
+  <b>Ramya</b> is an <a href="https://www.iayt.org/page/certification" style="color:#000">IAYT</a> certified C-IAYT yoga therapist and a Yoga Alliance certified RYT-500 teacher with years of experience teaching yoga to a highly varied audience. Her classes are fun and engaging while still retaining the essense of yoga. You can find her on <a href="https://instagram.com/ramyapillutla" style="color:#000">Instagram</a> or check out her <a href="https://healwithramya.com" style="color:#000">website</a>.
 
   <br><br>
   Venue: The Integral Space, Opp. Palladium Mall, Lower Parel, Mumbai
