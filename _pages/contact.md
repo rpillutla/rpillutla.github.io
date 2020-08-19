@@ -17,6 +17,6 @@ onload="if(submitted) {window.location='/thankyou';}"></iframe>
 <label>Your message:</label>
 <textarea name="entry.1242451957" rows="5" placeholder="I want to hear what you have to say." required></textarea>
 
-<label>Your contact number (Only to check for this, no spam):</label>
-<input type="tel" pattern="+[0-9]{2}-[0-9]{10}" name="entry.1274280137" placeholder="+91-1234512345" required>
+<label>Your contact number (Only to respond to your enquiry, no spam):</label>
+    <input type="tel" pattern="+[0-9]{2}-[0-9]{10}" name="entry.1274280137" placeholder="+91-1234512345" required>
 <button class="btn btn--large" style="background-color: #4CAF50;" type="submit">Send</button>

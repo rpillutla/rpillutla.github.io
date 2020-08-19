@@ -89,3 +89,12 @@
     }
   }
 }
+
+.page__footer-right {
+  float: right;
+  .iayt-logo {
+    max-width: 350px;
+    // height: 60%;
+    width: 100%;
+  }
+}

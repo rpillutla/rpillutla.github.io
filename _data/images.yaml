@@ -1,3 +1,5 @@
 header:
   top-left:
     src: /assets/images/top-left-yoga.png
+  iayt-logo:
+    src: /assets/images/iayt_logo.jpg

@@ -248,6 +248,14 @@
   }
 }
 
+.author__certification {
+
+  @include breakpoint($small) {
+    display: none;
+  }
+
+}
+
 .author__urls {
   display: none;
   position: absolute;
