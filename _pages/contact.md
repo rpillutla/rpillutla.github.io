@@ -5,7 +5,7 @@ title: "Contact Me"
 
 You can <a href="mailto:healwithramya@gmail.com">email</a> me or message me on <a href="https://instagram.com/ramyapillutla">instagram</a>.
 
-Or, drop me a message on this form below to quickly get in touch!
+Or, drop me a message on this form below to quickly get in touch! If you are looking for classes, please include some details about what you are looking for, and we will get in touch with you.
 
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
 onload="if(submitted) {window.location='/thankyou';}"></iframe>
