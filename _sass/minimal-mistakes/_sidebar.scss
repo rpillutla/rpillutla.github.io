@@ -249,10 +249,7 @@
 }
 
 .author__certification {
-
-  @include breakpoint($small) {
-    display: none;
-  }
+  display: none;
   @include breakpoint($large) {
     display: block;
   }
