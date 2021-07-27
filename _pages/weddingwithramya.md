@@ -1,0 +1,14 @@
+---
+permalink: /wedding
+---
+
+<h1 style="text-align: center;">We're getting married!</h1>
+<p style="text-align: center;">
+
+Hang on folks, this link will be automatically send you to the broadcast when it starts!
+</p>
+
+<!-- <meta charset="utf-8"> -->
+<!-- <title>Hang tight!</title> -->
+<!-- <meta http-equiv="refresh" content="0; URL=https://.com/"> -->
+<!-- <link rel="canonical" href="https://example.com/"> -->
